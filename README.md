@@ -22,6 +22,6 @@ Este é um projeto de estudo desenvolvido para praticar e aprofundar conheciment
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/php-admin-crud.git
+   git clone https://github.com/KaiD3v/php-admin-crud.git
    ```
 
